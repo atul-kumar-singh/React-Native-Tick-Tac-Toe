@@ -21,7 +21,7 @@ npm install
 ```bash
 npm start
 ```
-9. It should start the build in http://localhost:19002/ . If you have simulators and emulators in your machine , use the option to run on simulators, otherwise use step 9.
+9. It should start the build in http://localhost:19002/ . If you have simulators and emulators in your machine , use the option to run on simulators, otherwise use step 10.
 10. In IOS open camera and scan the code, it will give a pop-up of starting the app in expo client. Open expo client.
 11. Javascript build will start and app will open in your phone.
 12. For Andriod steps are easy , figure out yourself from this link. https://docs.expo.io/workflow/android-studio-emulator/
